@@ -1,0 +1,5 @@
+('Qual o nome do argentino camisa 10 do Barcelona', 'messi')
+('Qual a sigla do Centro de Informatica da UFPE', 'cin')
+('Qual o nome da capital de Pernambuco', 'recife')
+('Pelo Sport nada?', 'tudo')
+('Qual o maior pais da America do Sul', 'brasil')
